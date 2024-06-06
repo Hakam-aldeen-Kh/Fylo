@@ -1,11 +1,11 @@
-import React from 'react'
+import Landing from "../components/Landing";
 
 function Home() {
   return (
-    <div>
-      Home
-    </div>
-  )
+    <>
+      <Landing />
+    </>
+  );
 }
 
-export default Home
+export default Home;
