@@ -28,6 +28,9 @@ function Landing() {
           </a>
         </div>
       </div>
+      <div className="w-full h-[100px] lg:h-[200px] mt-[20px] ">
+        <img src="src/assets/svg/bg-curvy-desktop.svg"  alt="img" className="w-full h-full"/>
+      </div>
     </section>
   );
 }
