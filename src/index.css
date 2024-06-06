@@ -4,7 +4,7 @@
 
 @layer {
   .element-center {
-    @apply flex justify-center items-center flex;
+    @apply flex justify-center items-center;
   }
   .container {
     @apply px-[80px] mx-auto;
