@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Access any files, anywhere",
+    "paragraph": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "img": "icon-access-anywhere.svg"
+  },
+  {
+    "id": "2",
+    "title": "Security you can trust",
+    "paragraph": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "img": "icon-security.svg"
+  },
+  {
+    "id": "3",
+    "title": "Real Time collaboration",
+    "paragraph": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "img": "icon-collaboration.svg"
+  },
+  {
+    "id": "4",
+    "title": "Store any type of file",
+    "paragraph": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    "img": "icon-any-file.svg"
+  }
+]
