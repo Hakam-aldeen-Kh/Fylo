@@ -7,7 +7,7 @@
     @apply flex justify-center items-center;
   }
   .container {
-    @apply px-[80px] mx-auto;
+    @apply px-[20px] md:px-[60px] lg:px-[80px] mx-auto;
   }
   .btn {
     @apply bg-[#42b0d1] hover:bg-[#8cdae4] transition-all duration-200;
