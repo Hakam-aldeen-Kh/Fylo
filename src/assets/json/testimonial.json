@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Ahmed",
+    "decs": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates, officia reprehenderit id reiciendis voluptas incidunt ex inventore. Ut culpa molestias, repellendus dolorum eveniet pariatur libero magnam quia error asperiores a!",
+    "position": "Founder & CEO",
+    "img": "profile-1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Mohamed",
+    "decs": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates, officia reprehenderit id reiciendis voluptas incidunt ex inventore. Ut culpa molestias, repellendus dolorum eveniet pariatur libero magnam quia error asperiores a!",
+    "position": "Founder & CEO",
+    "img": "profile-2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Eman",
+    "decs": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates, officia reprehenderit id reiciendis voluptas incidunt ex inventore. Ut culpa molestias, repellendus dolorum eveniet pariatur libero magnam quia error asperiores a!",
+    "position": "Founder & CEO",
+    "img": "profile-3.jpg"
+  }
+]
