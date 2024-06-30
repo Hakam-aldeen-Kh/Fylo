@@ -3,7 +3,7 @@ import data from "../assets/json/features.json";
 
 function Features() {
   return (
-    <section>
+    <section className="pb-[150px]">
       <div className="container">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-[100px] w-full md:w-[75%] mx-auto">
           {data.map((feature) => (

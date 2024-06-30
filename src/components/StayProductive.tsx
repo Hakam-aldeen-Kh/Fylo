@@ -1,6 +1,6 @@
 function StayProductive() {
   return (
-    <section className="mt-[150px]">
+    <section className="mt-[150px] pb-[150px]">
       <div className="container grid grid-cols-1 md:grid-cols-2 gap-[30px] place-items-center">
         <div>
           <img
