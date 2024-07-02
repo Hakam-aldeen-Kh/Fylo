@@ -8,8 +8,7 @@ function Header() {
       if (window.scrollY > 100 && headerRef.current) {
         headerRef.current.style.background = "#0c1524";
         headerRef.current.style.padding = "20px 0px";
-      }
-      else  if(headerRef.current) {
+      } else if (headerRef.current) {
         headerRef.current.style.background = "transparent";
         headerRef.current.style.paddingTop = "60px";
       }
@@ -27,7 +26,7 @@ function Header() {
         <nav>
           <ul className="flex items-center gap-[50px]">
             {links.map((link: string) => (
-              <li>
+              <li key={link}>
                 <a
                   className="text-white opacity-[0.9] hover:opacity-[1] hover:underline transition-opacity duration-200"
                   href={`/${link.toLowerCase()}`}
